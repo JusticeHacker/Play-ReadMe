@@ -26,8 +26,9 @@ I just add another line make it different form master(default) by using
 
 ## 會使用的程式語言
 - [x] C/C++
+- [] SQL
 - [x] JAVA
-- [ ] Python
+- [x] Python
 - [x] Html
 
 ## 表格
